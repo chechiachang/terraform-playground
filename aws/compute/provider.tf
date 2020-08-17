@@ -1,0 +1,1 @@
+../templates/provider.tf
