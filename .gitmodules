@@ -1,3 +1,6 @@
 [submodule "azure"]
 	path = azure
 	url = git@github.com:chechiachang/terraform-azure.git
+[submodule "newrelic"]
+	path = newrelic
+	url = git@github.com:chechiachang/terraform-new-relic.git
