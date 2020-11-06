@@ -8,7 +8,7 @@ Infrastructure as code with terraform, with some wrapped shortcuts.
 - Choose public cloud provider. ex.  `cd gcp`
 - Provide credentials for public cloud. Check docs in subdirectory.
   - [Amazon Web Service](aws/README.md)
-  - [Microsoft Azure](azure/README.md)
+  - [Microsoft Azure](https://github.com/chechiachang/terraform-azure)
   - [Google Cloud Platform](gcp/README.md)
 
 - Create project directory with `DIR=my-new-project make project`

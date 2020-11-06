@@ -1,0 +1,3 @@
+[submodule "azure"]
+	path = azure
+	url = git@github.com:chechiachang/terraform-azure.git
